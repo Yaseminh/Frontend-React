@@ -1,0 +1,11 @@
+.Adminsayfa ul li, nav li, ul li a, nav li a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    cursor:pointer;
+}
+.Adminsayfa ul li, nav li, ul li a, nav li a:hover {
+    
+    color: green;
+ 
+}
